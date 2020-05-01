@@ -1,0 +1,201 @@
+html body{
+  text-align: center;
+}
+
+.top-container{
+  background-color: #E0EBEB;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 120px;
+}
+
+.about-text-header{
+  display: block;
+  padding: 10px;
+  float: right;
+  margin-top: 40px;
+  margin-right: 50px;
+  }
+
+li{
+  display: inline;
+  padding-right: 50px;
+  font-size: 120%;
+  font-family: 'Quattrocento Sans', sans-serif;
+}
+
+a{
+  text-decoration: none;
+  color:#45b29A;
+}
+
+a:hover{
+  color: white;
+}
+
+h1{
+  font-family: 'Quattrocento Sans', sans-serif;
+  font-family: 'Tangerine', cursive;
+  font-size: 500%;
+  color: #45b29A;
+}
+
+h3{
+  font-family: 'Quattrocento Sans', sans-serif;
+  color:#45b29A;
+}
+
+.animoji{
+  width: 350px;
+  position: absolute;
+  left: 100px;
+  top: 220px;
+}
+
+p{
+  width: 460px;
+  line-height: 2;
+  font-family: 'Quattrocento Sans', sans-serif;
+  font-weight: 300;
+}
+
+.image{
+  width:200px;
+}
+
+/* ****** info ***** */
+
+.info{
+  margin: 250px;
+  margin-bottom: 0;
+}
+
+/* ****** intro **** */
+.intro{
+  margin-bottom: 0;
+}
+
+
+/** desc **/
+.desc{
+  margin-top: 100px;
+  position: absolute;
+  left: 450px;
+}
+
+.skills{
+  position: absolute;
+  margin-top: 200px;
+  left: 500px;
+  font-family: 'Quattrocento Sans', sans-serif;
+  text-align: left;
+}
+
+.coding{
+  width:50%;
+  position: absolute;
+  left: 500px;
+}
+
+/* Work Experience*/
+.workexperience{
+  position: absolute;
+  margin-top: 610px;
+  left: 500px;
+  font-family: 'Quattrocento Sans', sans-serif;
+  text-align: left;
+}
+
+.work{
+  width:50%;
+  position: absolute;
+  right: 500px;
+}
+
+/* Qualification */
+.qual{
+  position: absolute;
+  left: 400px;
+  width:50%
+}
+
+/* certifications  */
+.cert{
+  position: absolute;
+  right: 500px;
+  width: 50%;
+}
+
+.certification{
+  text-align: left;
+}
+
+/* Button */
+
+.classname {
+	-moz-box-shadow: undefined undefined   ;
+	-webkit-box-shadow: undefined undefined   ;
+	box-shadow: undefined undefined   ;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #45c7b1), color-stop(1, #2db3bd) );
+	background:-moz-linear-gradient( center top, #45c7b1 5%, #2db3bd 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#45c7b1', endColorstr='#2db3bd');
+	background-color:#45c7b1;
+	-webkit-border-top-left-radius:7px;
+	-moz-border-radius-topleft:7px;
+	border-top-left-radius:7px;
+	-webkit-border-top-right-radius:7px;
+	-moz-border-radius-topright:7px;
+	border-top-right-radius:7px;
+	-webkit-border-bottom-right-radius:7px;
+	-moz-border-radius-bottomright:7px;
+	border-bottom-right-radius:7px;
+	-webkit-border-bottom-left-radius:7px;
+	-moz-border-radius-bottomleft:7px;
+	border-bottom-left-radius:7px;
+text-indent:0;
+	border:1px solid #18ab29;
+	display:inline-block;
+	color:#ffffff;
+	font-family: 'Quattrocento Sans', sans-serif;
+	font-size:16px;
+	font-weight:bold;
+	font-style:normal;
+height:37px;
+	line-height:37px;
+width:141px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #2f6627;
+margin-top: 50px;
+margin-left: 70px;
+
+}.classname:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #2db3bd), color-stop(1, #45c7b1) );
+	background:-moz-linear-gradient( center top, #2db3bd 5%, #45c7b1 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#2db3bd', endColorstr='#45c7b1');
+	background-color:#2db3bd;
+}.classname:active {
+	position:relative;
+	top:1px;
+}
+
+.footer1{
+  background-color: #E0EBEB;
+  padding: 0 20px 50px 100px ;
+  position: absolute;
+  top: 2200px;
+  width: 90%;
+  height: 120px;
+}
+
+.bottom-text{
+  display: block;
+  padding: 10px;
+  margin-top: 40px;
+  margin-right: 50px;
+  position: absolute;
+  left: 550px;
+
+}
